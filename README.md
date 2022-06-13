@@ -4,7 +4,7 @@ My final project for my Monte Carlo simulation using population health data to r
 
 ## What is a Monte Carlo simulation?
 
-A monte carlo simulaton is best described as using random sampling, random numbers or variables you are uncertain about to try and assess possible outcomes for that given situation.  It has been used for physics, financial investment, and AI development for situations that involved decision making and not a percise data set to utilize for it.
+A monte carlo simulaton is best described as using random sampling, random numbers or variables you are uncertain about to try and assess possible outcomes for that given situation.  It has been used for physics, financial investment, and AI development for situations that involve decision making and not a percise data set to utilize for it.
 
 Here is an example of a Monte Carlo graph I pulled:
 -------------------
