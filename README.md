@@ -18,7 +18,7 @@ I am using the monte carlo simulation for population health analysis and assessm
 - Another portion has an alergic reaction to certain foods like nuts, gluten, etc.
 - We can see that this demographic is more likely to experience this disease
 
-MiHIN would like to utilize this data set and analysis as a selling point to future customers as a way to communicate "Look what we can do when given this healthcare data and what we can give you in return".  Another goal of this data set would be for future use and analysis, this would include being used to test out applications in development or new business procedures.
+MiHIN would like to utilize this data set and analysis as a selling point to future customers as a way to communicate "Look what we can do when given this healthcare data and what we can give you in return". 
 
 ## Now, why am *I* doing this?
 
