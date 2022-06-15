@@ -4,7 +4,7 @@ My final project for my Monte Carlo simulation using population health data to r
 
 ## What is a Monte Carlo simulation?
 
-A monte carlo simulaton is best described as using random sampling, random numbers or variables you are uncertain about to try and assess possible outcomes for that given situation.  It has been used for physics, financial investment, and AI development for situations that involve decision making and not a percise data set to utilize for it.
+A monte carlo simulaton is best described as using random sampling, random numbers or variables you are uncertain about to try and assess possible outcomes for that given situation.  It has been used for physics, financial investment, and AI development for situations that involve decision making and not a percise data set to utilize for it.  It works by building modles of possible results after doing risk analysis calcluations and then substitutes a range of values for any factor that is uncertain.
 
 Here is an example of a Monte Carlo graph I pulled:
 -------------------
@@ -13,7 +13,7 @@ Here is an example of a Monte Carlo graph I pulled:
 
 ## What am I using the simulation for?
 
-I am using the monte carlo simulation for population health analysis and assessment of certain factors such disease, genetics, and healthcare interventions. I am actually generating this data using population statistics given by my company to utilize.  Think of it as actually spawning the data set itself and then coming to conlcusions like:
+I am using the monte carlo simulation for population health analysis and assessment of certain factors such disease, genetics, and healthcare interventions. I am actually generating this data using population statistics given by my company to utilize in areas of development and testing when PHI(Private Health Information) is needed, they can utilize this synthetic set instead. This data for the parameters was actually donated to us by De-ID'd payer/claims groups.  The goal of generating this data is to come to conclusions like:
 - This portion of the public has heart disease
 - Another portion has an alergic reaction to certain foods like nuts, gluten, etc.
 - We can see that this demographic is more likely to experience this disease
